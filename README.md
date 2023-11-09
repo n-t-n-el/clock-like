@@ -16,4 +16,4 @@ $$
 P(s|x) = (1-e^{-ax}) P_a(s) + e^{-ax} P_b(s),
 $$
 
-This package allows to find the two distributions, $P_{a,b}(s)$, using expectation-maximization.
+The code in `inference.py` allows to find the two distributions, $P_{a,b}(s)$, using expectation-maximization.
