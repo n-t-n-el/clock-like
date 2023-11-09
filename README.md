@@ -16,4 +16,4 @@ $$
 P(s|x) = (1-e^{-ax}) P_a(s) + e^{-ax} P_b(s),
 $$
 
-and this package allows to infer the two distributions, $P_{a,b}(s)$, using expectation-maximization.
+This package allows to find the two distributions, $P_{a,b}(s)$, using expectation-maximization.
